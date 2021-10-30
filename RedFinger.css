@@ -1,1 +1,3 @@
-div#adSwipe {display: none !important;}
+div.isLogin .adSwipe[data-v-cb70c85e] {display: none !important;}
+div#adSwipe {width: 0% !important;}
+div##adSwipe {width: 0% !important;}
